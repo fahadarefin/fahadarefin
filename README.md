@@ -11,7 +11,7 @@ I'm passionate about **Data Analysis**, **3D Printing**, and diving into **Elect
 - **🔬 Research Assistant:** Gaining hands-on experience in cutting-edge projects.  
 - **💻 Python Developer:** Creating programming and data-driven solutions.  
 - **🌐 Web Development:** Skilled in WordPress for managing and enhancing websites.  
-- **🤝 Volunteer:** Former volunteer at IEEE and OPTICA, contributing to the engineering community.
+- **🤝 Volunteer:** Lead Webmaster at IEEE SB DU and Former volunteer at OPTICA, contributing to the engineering community.
 
 ---
 
